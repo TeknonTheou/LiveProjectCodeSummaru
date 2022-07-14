@@ -1,7 +1,5 @@
 # LiveProjectCodeSummary
 
-<h1>Live Project Code Summary</h1>
-
 <h2>Introduction and SignIn</h2>
 
 For my final course in my time at The Tech Academy, I participated in a C# Live Project, coordinating with other students and instructors. We worked with Visual Studio on front-end and back-end improvements, and used Azure boards for project management. Daily stand-ups and emails modeled a typical work environment over the course of a two week sprint, with weekly code retrospectives. Working within a student built website, the project was based on a theatre that requested help with functionality and interfaces for user operation. The first part included adding our names to a sign in file on the website, to demonstrate understanding regarding creating and merging branches using Visual Studio.
