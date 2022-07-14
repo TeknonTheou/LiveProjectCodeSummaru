@@ -13,15 +13,6 @@ RentalHistory entity models and CRUD
 
 After the reserve story, I was assigned to the rental history portion of the site, asked with creating pages which documented all rentals that were issued, including damage and a brief summary of the damage, if any. I first needed to create entity models for the rental history, using a code first approach. After creating the model, the controller and views were created for Create, Edit, Details, Delete, and Index CRUD pages.
 
-public class RentalHistory
-  {
-      public int RentalHistoryId { get; set; }
-      public bool RentalDamaged { get; set; }
-      public string DamagesIncurred { get; set; }
-      public string Rental { get; set; }
-  }
- 
- 
 <h2> Styling the Create/Edit pages </h2>
 For the styling of the pages, I wrote code in the css and JavaScript files of the rental area. Built a javascript function that changed the form labels if the rental was damaged or not. If damaged, the label for "Notes" would change to "Damages Incurred".
 
