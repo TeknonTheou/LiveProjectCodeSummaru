@@ -8,13 +8,19 @@ For my final course in my time at The Tech Academy, I participated in a C# Live 
 
 After the initial SignIn portion, we were assigned a smaller story to acclimate ourselves to the feel of how the boards and work items in Azure functioned. My reserve story was to create the site’s homepage, matching the page to the client’s requested standards. Working on the front-end side, my objectives were to code the page and set the css for the page within the primary site css file.
 
+![image](https://user-images.githubusercontent.com/99988665/179118967-0003cc08-6220-45b8-aa0a-cc1330fdefe7.png)
+
 <h2>RentalHistory entity models and CRUD</h2>
 
 <h3>Rental History</h3>
 After the reserve story, I was assigned to the rental history portion of the site, asked with creating pages which documented all rentals that were issued, including damage and a brief summary of the damage, if any. I first needed to create entity models for the rental history, using a code first approach. After creating the model, the controller and views were created for Create, Edit, Details, Delete, and Index CRUD pages.
 
+![image](https://user-images.githubusercontent.com/99988665/179119041-85c1220c-8d88-4202-b76c-01ceb31c6de7.png)
+
 <h3> Styling the Create/Edit pages </h3>
 For the styling of the pages, I wrote code in the css and JavaScript files of the rental area. Built a javascript function that changed the form labels if the rental was damaged or not. If damaged, the label for "Notes" would change to "Damages Incurred".
+
+![image](https://user-images.githubusercontent.com/99988665/179119508-01ddf4d0-3064-49af-aca6-c4320607eb38.png)
 
 <h2>Skills Used</h2>
 <ul>
