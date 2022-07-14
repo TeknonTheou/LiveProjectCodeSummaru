@@ -27,7 +27,7 @@ For the styling of the pages, I wrote code in the css and JavaScript files of th
 
 <h2>Skills Used</h2>
 <ul>
-    <li>Using proper version control. Creating new branches from the master, which would be updated daily, and learning how to save changes. Committing and pushing branches and creating pull requests when merging branches to the master.<li>
+    <li>Using proper version control. Creating new branches from the master, which would be updated daily, and learning how to save changes. Committing and pushing branches and creating pull requests when merging branches to the master.</li>
     <li>Working as a team on a project. Using resources together to solve problems, such as the Discord app for communication, and daily Stand ups with the project manager.</li>
     <li>How to use Azure DevOps to maintain work items and boards.
     Basic understanding of how a development team works and operates through a sprint. Sprint planning, stand ups, code retrospectives. Just the overall planning that goes into a project and how its broken down for ease and function.</li>
